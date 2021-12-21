@@ -1,7 +1,7 @@
-# Aplicação básica de Microserviços:
-## Exemplo proveniente deste vídeo: https://www.youtube.com/watch?v=-H8pD7sMcfo
+## Aplicação básica de Microserviços:
+### Exemplo proveniente deste vídeo: https://www.youtube.com/watch?v=-H8pD7sMcfo
 
-# O que foi utilizado:
-## Nodejs
-## Typescript
-## KafkaJs
+## O que foi utilizado:
+- Nodejs
+- Typescript
+- KafkaJs
